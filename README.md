@@ -6,7 +6,7 @@ Registration Number: 25BAI10328
 Branch: BTech CSE AI/ML
 Course: CSE0001 – Digital Literacy
 
-Project Overview
+Project Overview - 
 This repository contains my Digital Literacy Portfolio, completed as part of my role as a Student Digital Ambassador. The project demonstrates foundational skills in online professionalism, digital communication, and cybersecurity awareness.
 
 

@@ -1,0 +1,14 @@
+Stay Safe Online: A Cyber-Hygiene Checklist for College Students
+
+1. Never use your PIN to receive money: Remember that a UPI PIN is only required when you are sending money or checking your account balance. You will never need to enter it to receive a payment.
+2. Verify UPI IDs before paying: Always double-check the receiver's name and Virtual Payment Address (VPA) before authorizing transfers, especially when paying for second-hand books, hostel fees, or online orders. 
+3. Beware of internship/job scams: Be highly skeptical of unsolicited messages on WhatsApp or Telegram offering part-time jobs or internships that require an upfront "registration fee."
+4. Secure your college accounts: Enable Two-Factor Authentication (2FA) on your student email, social media, and banking apps to add an extra layer of security beyond just your password.
+5. Avoid sensitive transactions on public Wi-Fi: Do not log into your bank or make UPI payments while connected to open campus or cafe Wi-Fi networks unless using a trusted VPN.
+6. Lock down your digital footprint: Adjust your social media privacy settings so you aren't broadcasting your location, hostel details, or daily schedule to strangers.
+7. Pause before clicking: Do not click on links in urgent SMS messages or emails claiming your bank account will be blocked or your OTT subscription has expired.
+8. Keep devices updated: Ensure your laptop's operating system, antivirus software, and mobile apps are consistently updated to patch known security vulnerabilities.
+
+How to Report Cybercrime in India:
+* National Cyber Crime Reporting Portal: cybercrime.gov.in
+* National Cybercrime Helpline Number: Dial 1930

@@ -1,0 +1,11 @@
+Subject: extension request - assignment 3
+
+Professor Khanna,
+I'm hitting a wall here. And running completely out of runway.
+The current code is due Thursday, but a string of rolling power cuts at the hostel wrecked my momentum this week. My Dell's battery only stretches so far before the screen goes black. Because of that, the logic for the last two sorting functions is still totally scrambled.
+Any chance I could get until Saturday morning to turn this in?
+I’d rather not hand over a broken, half-baked script just to beat the buzzer. Two more days gives me enough breathing room to debug the mess and actually understand what I'm writing.
+Thanks for considering it.
+
+Suvradeep Datta
+Reg. No.: 25BAI10328
